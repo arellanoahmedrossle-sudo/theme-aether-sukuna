@@ -1,0 +1,20 @@
+{
+    "name": "theme-aether-sukuna",
+    "displayName": "Aether Theme — Sukuna",
+    "description": "Aether color theme generated from wallpaper — Sukuna",
+    "publisher": "local",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": ["Themes"],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aether — Sukuna",
+                "uiTheme": "vs-dark",
+                "path": "./themes/aether-color-theme.json"
+            }
+        ]
+    }
+}
